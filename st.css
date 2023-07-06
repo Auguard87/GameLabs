@@ -67,6 +67,19 @@ body{
     display: flex;
     text-align: center;
 }
+.i7{
+    color: aliceblue;
+    border: 20px rgb(30, 30, 30) solid;
+    font-size: 20px;
+    text-align: center;
+}
+.i8{
+    color: aliceblue;
+    border: 30px rgb(30, 30, 30) solid;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+}
 @media screen and (max-width: 320px) {
     .i0{
         color: aliceblue;
@@ -129,6 +142,21 @@ body{
         border-bottom: 125px rgb(30, 30, 30) solid;
         border-top: 125px rgb(30, 30, 30) solid;
         font-size: 25px;
+        display: flex;
+        text-align: center;
+    }
+    .i7{
+        width: 600px;
+        color: aliceblue;
+        border: 10px rgb(30, 30, 30) solid;
+        font-size: 30px;
+        text-align: center;
+    }
+    .i8{
+        width: 600px;
+        color: aliceblue;
+        border: 20px rgb(30, 30, 30) solid;
+        font-size: 30px;
         display: flex;
         text-align: center;
     }
